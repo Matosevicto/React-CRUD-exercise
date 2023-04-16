@@ -1,0 +1,181 @@
+{
+  "rezervacije": [
+    {
+      "osoba": {
+        "ime": "Jure",
+        "prezime": "Reljanović",
+        "dob": 4
+      },
+      "karta": {
+        "pocetak": "Zagreb",
+        "kraj": "",
+        "klasa": "E"
+      },
+      "id": 5
+    },
+    {
+      "osoba": {
+        "ime": "Jure",
+        "prezime": "Reljanović",
+        "dob": 4
+      },
+      "karta": {
+        "pocetak": "Zagreb",
+        "kraj": "",
+        "klasa": "E"
+      },
+      "id": 6
+    },
+    {
+      "osoba": {
+        "ime": "Amte",
+        "prezime": "Jurić",
+        "dob": 242442
+      },
+      "karta": {
+        "pocetak": "Zagreb",
+        "kraj": "",
+        "klasa": "E"
+      },
+      "id": 7
+    },
+    {
+      "osoba": {
+        "ime": "Amte",
+        "prezime": "Jurić",
+        "dob": 242442
+      },
+      "karta": {
+        "pocetak": "Zagreb",
+        "kraj": "",
+        "klasa": "B"
+      },
+      "id": 8
+    },
+    {
+      "osoba": {
+        "ime": "Amte",
+        "prezime": "Jurić",
+        "dob": 242442
+      },
+      "karta": {
+        "pocetak": "Zagreb",
+        "kraj": "",
+        "klasa": "E"
+      },
+      "id": 9
+    },
+    {
+      "osoba": {
+        "ime": "Amte",
+        "prezime": "Jurić",
+        "dob": 242442
+      },
+      "karta": {
+        "pocetak": "Zagreb",
+        "kraj": "",
+        "klasa": "E"
+      },
+      "id": 10
+    },
+    {
+      "osoba": {
+        "ime": "Amte",
+        "prezime": "Jurić",
+        "dob": 242442
+      },
+      "karta": {
+        "pocetak": "Zagreb",
+        "kraj": "",
+        "klasa": "E"
+      },
+      "id": 11
+    },
+    {
+      "osoba": {
+        "ime": "Amte",
+        "prezime": "Jurić",
+        "dob": 242442
+      },
+      "karta": {
+        "pocetak": "Zagreb",
+        "kraj": "",
+        "klasa": "E"
+      },
+      "id": 12
+    },
+    {
+      "osoba": {
+        "ime": "Amte",
+        "prezime": "Jurić",
+        "dob": 242442
+      },
+      "karta": {
+        "pocetak": "Zagreb",
+        "kraj": "",
+        "klasa": "E"
+      },
+      "id": 13
+    },
+    {
+      "osoba": {
+        "ime": "Amte",
+        "prezime": "Jurić",
+        "dob": 242442
+      },
+      "karta": {
+        "pocetak": "Zagreb",
+        "kraj": "",
+        "klasa": "E"
+      },
+      "id": 14
+    },
+    {
+      "osoba": {
+        "ime": "Amte",
+        "prezime": "Jurić",
+        "dob": 242442
+      },
+      "karta": {
+        "pocetak": "Zagreb",
+        "kraj": "",
+        "klasa": "E"
+      },
+      "id": 15
+    },
+    {
+      "osoba": {
+        "ime": "fabe",
+        "prezime": "h",
+        "dob": 4
+      },
+      "karta": {
+        "pocetak": "Split",
+        "kraj": "",
+        "klasa": "B"
+      },
+      "id": 16
+    }
+  ],
+  "gradovi": [
+    "Split",
+    "Zagreb",
+    "Paris",
+    "London",
+    "Madrid",
+    "Berlin",
+    "Rim"
+  ],
+  "klase": [
+    {
+      "id": 1,
+      "ime": "Ekonomska",
+      "oznaka": "E"
+    },
+    {
+      "ime": "Poslovna",
+      "oznaka": "P",
+      "id": 2
+    }
+  ]
+}
